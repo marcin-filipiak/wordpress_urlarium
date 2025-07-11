@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="urlarium.jpg" alt="LocalPoint logo" width="300"/>
+</p>
+
 # URLarium
 
 **URLarium** is a simple WordPress plugin for managing and organizing URLs within the WordPress admin panel.
