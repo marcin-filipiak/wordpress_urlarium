@@ -40,6 +40,6 @@ This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses
 
 ---
 
-**Author:** [marcin-filipiak]
-**Plugin Homepage:** *(optional link to repository or website)*
+**Author:** marcin-filipiak
+**Plugin Homepage:** https://github.com/marcin-filipiak/wordpress_urlarium
 
