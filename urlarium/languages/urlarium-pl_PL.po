@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: URLarium\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit\n"
+
+msgid "URLarium"
+msgstr "Katalog stron"
+
+msgid "Website"
+msgstr "Strona internetowa"
+
+msgid "Add New Website"
+msgstr "Dodaj nową stronę"
+
+msgid "Edit Website"
+msgstr "Edytuj stronę"
+
+msgid "New Website"
+msgstr "Nowa strona"
+
+msgid "View Website"
+msgstr "Zobacz stronę"
+
+msgid "Search Websites"
+msgstr "Szukaj stron"
+
+msgid "No websites found."
+msgstr "Nie znaleziono stron."
+
+msgid "URLarium Categories"
+msgstr "Kategorie katalogu"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Search Categories"
+msgstr "Szukaj kategorii"
+
+msgid "All Categories"
+msgstr "Wszystkie kategorie"
+
+msgid "Edit Category"
+msgstr "Edytuj kategorię"
+
+msgid "Update Category"
+msgstr "Aktualizuj kategorię"
+
+msgid "Add New Category"
+msgstr "Dodaj nową kategorię"
+
+msgid "New Category Name"
+msgstr "Nazwa nowej kategorii"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Website Details"
+msgstr "Szczegóły strony"
+
+msgid "Website URL:"
+msgstr "Adres URL strony:"
+
+msgid "Website Description:"
+msgstr "Opis strony:"
+
+msgid "No websites found in this category."
+msgstr "Brak stron w tej kategorii."
+
+msgid "URLarium Help"
+msgstr "Pomoc URLarium"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "How to Use URLarium"
+msgstr "Jak używać URLarium"
+
+msgid "To display the list of website categories, insert this shortcode:"
+msgstr "Aby wyświetlić listę kategorii, użyj tego shortcode:"
+
+msgid "To display a specific category:"
+msgstr "Aby wyświetlić konkretną kategorię:"
+
+msgid "Add websites in the URLarium admin menu, each can have title, URL, description and category."
+msgstr "Dodawaj strony w panelu URLarium — każda może mieć tytuł, adres URL, opis i kategorię."
+
+msgid "Uninstallation"
+msgstr "Deinstalacja"
+
+msgid "Choose whether to remove all plugin data when the plugin is deleted."
+msgstr "Zdecyduj, czy usunąć wszystkie dane wtyczki po jej usunięciu."
+
+msgid "Delete all data on uninstall?"
+msgstr "Usunąć wszystkie dane przy deinstalacji?"
+
+msgid "URLarium Settings"
+msgstr "Ustawienia URLarium"
+

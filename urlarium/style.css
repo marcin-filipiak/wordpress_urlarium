@@ -1,0 +1,19 @@
+.urlarium-category-list { list-style: none; padding: 0; }
+.urlarium-category-list li { margin: 5px 0; }
+.urlarium-website-list { margin-top: 20px; }
+.urlarium-entry {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #fafafa;
+    border-radius: 6px;
+}
+.urlarium-entry h4 {
+    margin: 0 0 5px 0;
+    font-size: 1.1em;
+}
+.urlarium-entry p {
+    margin: 0;
+    color: #444;
+}
+
