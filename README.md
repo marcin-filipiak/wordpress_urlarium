@@ -44,3 +44,4 @@ This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses
 
 **Plugin Homepage:** https://github.com/marcin-filipiak/wordpress_urlarium
 
+**Plugin Wordpress Lib:** https://wordpress.org/plugins/urlarium/
